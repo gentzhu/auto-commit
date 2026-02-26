@@ -1,0 +1,1 @@
+将auto-commit.cmd文件内的SCRIPT=C:\Users\XXX\.codex\skills\auto-commit\scripts\auto_commit_from_diff.py中XXX替换成你在windows下的用户名。将auto-commit.cmd保存到C:\Users\XXX\.local\bin并将其他文件保存到C:\Users\XXX\.codex\skills\auto-commit\scripts\
