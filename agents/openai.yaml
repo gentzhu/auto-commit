@@ -1,0 +1,8 @@
+﻿interface:
+  display_name: "Auto Commit"
+  short_description: "Auto commit from git diff with Chinese message fields"
+  default_prompt: "Use $auto-commit to compare git diffs, generate 中文提交描述（类型/作用域/主题/简介）, and auto commit changes."
+
+
+
+
